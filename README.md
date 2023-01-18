@@ -4,8 +4,13 @@ Code of Augmented Self-Attention Pruning (ASAP) model.\
 Paper: "ASAP: Endowing Adaptation Capability to Agent in Human-Agent Interaction".
 
 ## Description of ASAP
-In human-human interaction, interlocutors adapt their behaviors reciprocally and dynamically. ASAP models this adaptation mechanism also referred to as reciprocal adaptation between a SIA and a human interlocutor.\
+In human-human interaction, interlocutors adapt their behaviors reciprocally and dynamically. ASAP models this adaptation mechanism also referred to as reciprocal adaptation between a Socially Interactive Agent (SIA) and a human interlocutor.\
 The SIA behavior as speaker and listener is fully driven by ASAP. Only its head and upper facial expressions are computed. The voice of the SIA is dubbed from the original video of the human-human data.
+
+## Demo video
+A dyadic interaction between a human and a SIA simulated with the GRETA platform. SIA behaviors are generated via our ASAP model at the frame level at 25 fps.
+
+[![ASAP DEMO](http://img.youtube.com/vi/K-cu7wY9GRs/0.jpg)](http://www.youtube.com/watch?v=K-cu7wY9GRs "ASAP Demo")
 
 ## Requirements
 - Python 3.9.7
