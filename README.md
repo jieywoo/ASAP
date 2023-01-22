@@ -10,7 +10,7 @@ The SIA behavior as speaker and listener is fully driven by ASAP. Only its head 
 ## Demo video
 A dyadic interaction between a human and a SIA simulated with the GRETA platform. SIA behaviors are generated via our ASAP model at the frame level at 25 fps.
 
-[![ASAP DEMO](https://user-images.githubusercontent.com/44306168/213715354-b1742b06-8df2-45fc-a01c-91dce49e44c6.png)](http://www.youtube.com/watch?v=K-cu7wY9GRs "ASAP Demo")
+[![ASAP DEMO](https://user-images.githubusercontent.com/44306168/213715354-b1742b06-8df2-45fc-a01c-91dce49e44c6.png)](http://www.youtube.com/watch?v=feojlOrFCIg "ASAP Demo")
 Please click to see the full demo video.
 
 ## Requirements
