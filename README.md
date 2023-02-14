@@ -1,7 +1,7 @@
 # Augmented Self-Attention Pruning (ASAP)
 
 Code of Augmented Self-Attention Pruning (ASAP) model.\
-Paper: "ASAP: Endowing Adaptation Capability to Agent in Human-Agent Interaction".
+Paper: "ASAP: Endowing Adaptation Capability to Agent in Human-Agent Interaction" (accepted).
 
 ## Description of ASAP
 In human-human interaction, interlocutors adapt their behaviors reciprocally and dynamically. ASAP models this adaptation mechanism also referred to as reciprocal adaptation between a Socially Interactive Agent (SIA) and a human interlocutor.\
