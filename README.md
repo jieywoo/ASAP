@@ -1,6 +1,6 @@
 # Augmented Self-Attention Pruning (ASAP)
 
-Code of Augmented Self-Attention Pruning (ASAP) model.\
+Code of Augmented Self-Attention Pruning (ASAP) model, IUI 2023, https://dl.acm.org/doi/abs/10.1145/3581641.3584081\
 Paper: "ASAP: Endowing Adaptation Capability to Agent in Human-Agent Interaction" [IUI 2023].
 
 ## Description of ASAP
